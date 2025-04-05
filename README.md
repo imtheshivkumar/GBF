@@ -23,7 +23,3 @@ This repository contains the source code for the GBF (Global Business Forum) web
 
 **Shivkumar Yadav**  
 Email: shivkumarofc41@gmail.com
-
----
-
-Feel free to edit this content as needed.
